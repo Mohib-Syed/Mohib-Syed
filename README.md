@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mohib-Syed
+- 👀 I’m interested in coding, gaming
+- 🌱 I’m currently learning Javascript,php,c++ etc.
